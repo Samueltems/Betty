@@ -7,7 +7,7 @@
 * betty style doc for function main goes there
 * assigning a random number to the variable n each time it is executed
 * Return: 0 always (Success)
-* */
+*/
 
 int main(void)
 {
