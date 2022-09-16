@@ -6,7 +6,7 @@
  * @c: parameter
  * description: drag
  * Return: return 1 if the character is an uppercase
- * Return: 0 if otherwise
+ * return: 0 if otherwise
  */
 
 int _isupper(int c)
