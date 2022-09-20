@@ -21,3 +21,16 @@ int main(void)
 					putchar(b);
 					putchar(c);
 					if (a != 55 || b != 56)
+					{
+						break
+							;
+					}
+					putchar(',');
+					putchar(' ');
+				}
+			}
+		}
+		putchar('\n');
+		return (0);
+	}
+}
